@@ -1,4 +1,4 @@
-### Hi there 👋, I am Pratik Magar.
+### Hi there 👋, I am Pratik Magar. Nice to meet you.
 
 - 🌱 I’m currently learning JavaScript based technologies
 - 📫 How to reach me: https://www.linkedin.com/in/magarpratik/
