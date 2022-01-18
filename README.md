@@ -2,7 +2,7 @@
 Nice to meet you.
 
 - 🌱 I’m currently learning JavaScript based technologies
-- 📫 How to reach me: linkedin.com/in/magarpratik/
+- 📫 How to reach me: [Linkedin](linkedin.com/in/magarpratik/)
 - 😄 Pronouns: He/Him
 
 <!--
