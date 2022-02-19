@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Pratik Magar. 
 Nice to meet you.
 
-- 🌱 I’m currently learning JavaScript based technologies
+- 🌱 I’m currently learning Go
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/magarpratik/)
 - 😄 Pronouns: He/Him
 
