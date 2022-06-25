@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Pratik Magar and I am a software engineer. 
+### Hi there 👋, my name is Pratik and I am a Software Engineer. 
 Nice to meet you.
 
 - 🌱 I’m currently learning Go
