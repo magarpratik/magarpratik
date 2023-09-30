@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Pratik and I am a Backend developer. 
+### Hi there 👋, my name is Pratik and I am a Backend developer.
 Nice to meet you.
 
 - 💻 Languages I use: C#, TypeScript, Go
