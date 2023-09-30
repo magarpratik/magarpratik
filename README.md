@@ -1,7 +1,7 @@
-### Hi there 👋, my name is Pratik and I am a Software Engineer. 
+### Hi there 👋, my name is Pratik and I am a Backend developer. 
 Nice to meet you.
 
-- 🌱 I’m currently learning Go
+- 💻 Languages I use: C#, TypeScript, Go
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/magarpratik/)
 - 😄 Pronouns: He/Him
 
