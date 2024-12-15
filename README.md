@@ -1,27 +1,18 @@
 ## 👋 Hi, I'm Pratik!
 
-<a href="https://www.linkedin.com/in/magarpratik"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/linkedin.svg" width="50"></a>
-
 I'm a backend-focused software engineer.
 
 - 💻 Specialist in **TypeScript** and **C#**<br>
 - 📚 Currently learning **Python** 🐍<br>
 - 🔧 Actively contributing to [Polar](https://github.com/polarsource/polar/pulls?q=is%3Apr+author%3Amagarpratik)<br>
 
+### Socials
+
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/magarpratik)
+
 ## 💻 Tech Stack
 
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/typescript.svg" width="50"></a>
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/nodejs.svg" width="50"></a>
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/expressjs.svg" width="50"></a>
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/cs-dark.svg" width="50"></a>
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/dotnet.svg" width="50"></a>
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/python-dark.svg" width="50"></a>
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/fastapi.svg" width="50"></a>
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/mongodb.svg" width="50"></a>
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/mssqlserver.svg" width="50"></a>
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/jenkins-dark.svg" width="50"></a>
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/githubactions-dark.svg" width="50"></a>
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/docker.svg" width="50"></a>
+[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,express,cs,dotnet,py,fastapi,mongodb,postgres,aws,gcp,jenkins,githubactions,docker)](https://skillicons.dev)
 
 ## 📊 GitHub Stats
 
