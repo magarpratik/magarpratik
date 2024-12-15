@@ -25,6 +25,8 @@ I'm a backend-focused software engineer.
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=magarpratik&theme=dark&bg_color=121C29&custom_title=Languages%20used&hide_border=true&size_weight=0.5&count_weight=0.5&include_all_commits=true&count_private=true&layout=compact)
 
-![](https://github-contributor-stats.vercel.app/api?username=magarpratik&limit=3&theme=dark&bg_color=121C29&hide_border=true&combine_all_yearly_contributions=true)
+![](https://github-readme-stats.vercel.app/api?username=magarpratik&theme=dark&bg_color=121C29&hide_border=true&custom_title=Contributions&hide=stars,prs,contribs&show=prs_merged&rank_icon=percentile&include_all_commits=true)
+
+![](https://github-contributor-stats.vercel.app/api?username=magarpratik&limit=3&theme=dark&bg_color=121C29&hide_border=true&combine_all_yearly_contributions=true&custom_title=Top%20contributed%20repositories)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
