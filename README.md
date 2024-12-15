@@ -1,6 +1,10 @@
-## 👋 Hi, I'm Pratik [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/magarpratik/) 
+## 👋 Hi, I'm Pratik!
 
-- 💻 I specialise in **TypeScript** and **C#**<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/magarpratik/) 
+
+I'm a backend-focused software engineer.
+
+- 💻 Specialist in **TypeScript** and **C#**<br>
 - 📚 Currently learning **Python** 🐍<br>
 - 🔧 Actively contributing to [Polar](https://github.com/polarsource/polar/pulls?q=is%3Apr+author%3Amagarpratik)<br>
 
