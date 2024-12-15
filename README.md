@@ -6,7 +6,7 @@ I'm a backend-focused software engineer.
 - 📚 Currently learning **Python** 🐍<br>
 - 🔧 Actively contributing to [Polar](https://github.com/polarsource/polar/pulls?q=is%3Apr+author%3Amagarpratik)<br>
 
-### Socials
+### 📫 Socials
 
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/magarpratik)
 
