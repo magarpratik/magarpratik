@@ -23,7 +23,7 @@ I'm a backend-focused software engineer.
 
 ### 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=magarpratik&theme=dark&bg_color=121C29&hide_border=true&custom_title=Contributions&hide=stars,prs,contribs&show=prs_merged&rank_icon=percentile&include_all_commits=true)
+![](https://github-readme-stats.vercel.app/api?username=magarpratik&theme=dark&bg_color=121C29&hide_border=true&custom_title=Contributions&hide=stars,prs,contribs&show=prs_merged&rank_icon=percentile&include_all_commits=true&show_icons=true)
 
 ![](https://github-contributor-stats.vercel.app/api?username=magarpratik&limit=3&theme=dark&bg_color=121C29&hide_border=true&combine_all_yearly_contributions=true&custom_title=Top%20contributed%20repositories)
 
