@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Pratik [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/magarpratik/) 
 
-💻 Languages I use: C#, TypeScript<br>
+💻 Languages I use: TypeScript, C#<br>
 📚 Currently learning: Python 🐍<br>
 🔧 Active contributor to: [Polar](https://github.com/polarsource/polar/pulls?q=is%3Apr+author%3Amagarpratik)<br>
 
