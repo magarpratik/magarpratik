@@ -21,7 +21,6 @@
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=magarpratik&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=magarpratik&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 #### 🔝 Top Contributed Repo
