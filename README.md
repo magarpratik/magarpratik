@@ -8,7 +8,7 @@ I'm a backend-focused software engineer.
 - 📚 Currently learning **Python** 🐍<br>
 - 🔧 Actively contributing to [Polar](https://github.com/polarsource/polar/pulls?q=is%3Apr+author%3Amagarpratik)<br>
 
-### 💻 Tech Stack
+## 💻 Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -21,7 +21,7 @@ I'm a backend-focused software engineer.
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=magarpratik&theme=dark&bg_color=121C29&hide_border=true&custom_title=Contributions&hide=stars,prs,contribs&show=prs_merged&rank_icon=percentile&include_all_commits=true&show_icons=true)
 
