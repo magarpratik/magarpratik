@@ -21,6 +21,7 @@ I'm a backend-focused software engineer.
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/mssqlserver.svg" width="50"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/jenkins-dark.svg" width="50"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/githubactions-dark.svg" width="50"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/docker.svg" width="50"></a>
 
 ## 📊 GitHub Stats
 
