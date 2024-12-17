@@ -12,7 +12,7 @@ I'm a backend-focused software engineer.
 
 ## 💻 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=ts,express,cs,dotnet,py,postgres,mongodb,docker,aws,gcp,jenkins,githubactions)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,express,cs,dotnet,py,postgres,mongodb,aws,gcp,jenkins,docker&perline=6)](https://skillicons.dev)
 
 ## 📊 GitHub Stats
 
