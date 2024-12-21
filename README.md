@@ -9,6 +9,7 @@ I'm a backend-focused software engineer.
 ### 📫 Socials
 
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/magarpratik)
+[![Twitter](https://skillicons.dev/icons?i=twitter)]([https://www.linkedin.com/in/magarpratik](https://x.com/magarpratik_))
 
 ## 💻 Tech Stack
 
