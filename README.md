@@ -1,8 +1,6 @@
 ## 👋 Hi, I'm Pratik!
 
-I'm a backend-focused software engineer.
-
-- 💻 Specialist in **TypeScript** and **C#**<br>
+I'm a backend-focused software engineer specialising in **TypeScript** and **C#**<br>.
 
 ### ✍️ Blog
 
