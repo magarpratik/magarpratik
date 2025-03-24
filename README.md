@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Pratik!
 
-- Backend-focused software engineer specialising in **TypeScript** and **C#**
+- Backend engineer specialising in **TypeScript** and **C#**
 - Currently building [Send a Secret!](https://send-a-secret.web.app/)
 
 ### ✍️ Blog
