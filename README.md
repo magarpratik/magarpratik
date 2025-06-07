@@ -3,6 +3,10 @@
 - Backend engineer specialising in **TypeScript** and **C#**
 - Currently building [Send a Secret!](https://send-a-secret.web.app/)
 
+### 🌐 Website
+
+[magarpratik.com](https://magarpratik.com)
+
 ### ✍️ Blog
 
 [The Coding Palace](https://www.thecodingpalace.com/)
