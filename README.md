@@ -18,4 +18,4 @@
 
 ## 💻 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,cs,dotnet,postgres,mongodb,aws,gcp,jenkins,docker&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,go,cs,postgres,mongodb,aws,gcp,jenkins,docker&perline=5)](https://skillicons.dev)
