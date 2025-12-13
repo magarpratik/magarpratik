@@ -1,6 +1,5 @@
 ## 👋 Hi, I'm Pratik!
 
-- Backend engineer
 - Currently building [Send a Secret!](https://send-a-secret.web.app/)
 
 ### 🌐 Website
