@@ -14,3 +14,5 @@
 
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/magarpratik)
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/magarpratik_)
+
+![My GitHub Space Shooter](game.gif)
